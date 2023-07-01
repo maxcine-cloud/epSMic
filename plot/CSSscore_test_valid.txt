@@ -1,0 +1,59 @@
+# Chromosome	Position	Ref. Base	Mutant Base	Coding Score	Non-Coding Score	Warning	cancer_num
+4	55133726	T	G	0.913926		driver (high conf.)	2
+12	25398280	G	A	0.952025		driver (high conf.)	1
+17	41219626	T	G	0.741539		driver	1
+17	7579883	G	A	0.282964		passenger	1
+4	55599268	C	T	0.49539		passenger	4
+7	6029582	G	A	0.975594		driver (high conf.)	1
+2	198265526	A	G	0.818565		driver	2
+17	7576853	C	T	0.842609		driver	1
+13	32929232	A	G	0.535933		driver	3
+19	45855524	G	A	0.422272		passenger	1
+19	50169131	C	T	0.507643		driver	0
+17	41244617	T	C	0.297597		passenger	2
+17	7578177	C	T	0.931218		driver (high conf.)	1
+13	32915005	G	C	0.3521		passenger	4
+5	112162854	T	C	0.654172		driver	4
+17	7578375	G	A	0.966314		driver (high conf.)	1
+15	51529112	T	C	0.96261		driver (high conf.)	1
+3	37050394	C	T	0.396915		passenger	1
+7	6036980	G	C	0.908278		driver	3
+7	6013153	A	G	0.87764		driver	1
+4	55152085	G	T	0.334964		passenger	1
+4	55143577	G	A	0.864269		driver	4
+5	112154734	A	G	0.472488		passenger	2
+6	152265522	G	C	0.918257		driver (high conf.)	6
+2	48033641	G	A	0.740034		driver	1
+17	41256955	C	A	0.651013		driver	2
+2	48010558	C	A	0.561437		driver	7
+4	55602765	G	C	0.448844		passenger	3
+4	55139809	C	T	0.680779		driver	1
+5	112162944	G	A	0.329928		passenger	1
+7	55268916	C	T	0.372487		passenger	1
+12	25362777	A	G	0.850487		driver	1
+13	32911888	A	G	0.195183		passenger	4
+7	55214348	C	T	0.808314		driver	2
+17	41245466	G	A	0.801932		driver	3
+17	41276051	G	A	0.686844		driver	1
+4	1803704	T	C	0.647027		driver	1
+7	128846328	G	C	0.74857		driver	2
+17	41245237	A	G	0.189868		passenger	3
+7	55224338	G	A	0.439062		passenger	1
+7	6026998	G	A	0.66418		driver	1
+6	152420095	G	A	0.85061		driver	1
+6	152129077	T	C	0.851677		driver	6
+7	6035243	T	C	0.685631		driver	2
+10	43615004	C	T	0.469104		passenger	1
+4	187542736	T	C	0.308664		passenger	1
+7	55249063	G	A	0.759486		driver	10
+14	64724051	C	T	0.402885		passenger	3
+2	48030686	G	A	0.97223		driver (high conf.)	1
+10	43613843	G	T	0.428957		passenger	3
+17	70118935	C	T	0.374357		passenger	1
+5	112173496	G	A	0.564817		driver	1
+4	1807478	G	T	0.15713		passenger	1
+5	149499672	T	C	0.872693		driver	3
+11	534242	A	G	0.853619		driver	7
+4	55152040	C	T	0.443408		passenger	13
+4	154624656	T	C	0.403289		passenger	4
+2	48018081	A	G	0.771837		driver	5
