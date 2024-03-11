@@ -103,9 +103,17 @@ In epSMic, we have listed four types of data, including TCGA, SomaMutDB, COSMIC,
 
 
 
-## Reference
+## Citing
+
+If you find *epSMic* useful for your research, please consider citing [this paper](https://ieeexplore.ieee.org/abstract/document/10360234):
 
 ```
-TO DO
+@article{cheng2023effect,
+  title={Effect Predictor of Driver Synonymous Mutations Based on Multi-feature Fusion and Iterative Feature Representation Learning},
+  author={Cheng, Na and Bi, Chuanmei and Shi, Yong and Liu, Mengya and Cao, Anqi and Ren, Mengkun and Xia, Junfeng and Liang, Zhen},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
