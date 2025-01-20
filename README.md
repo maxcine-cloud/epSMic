@@ -116,8 +116,7 @@ If you find *epSMic* useful for your research, please consider citing [this pape
   number={2},
   pages={1144--1151},
   year={2024},
-  doi={10.1109/JBHI.2023.3343075},
-  note={38096097}
+  publisher={IEEE}
 }
 ```
 
